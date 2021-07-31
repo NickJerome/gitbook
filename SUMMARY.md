@@ -38,5 +38,7 @@
   * [最小生成树](dai-ma-mo-ban/tu-lun/zui-xiao-sheng-cheng-shu.md)
   * [最短路](dai-ma-mo-ban/tu-lun/zui-duan-lu.md)
 
-## 题目集
+## 具体操作
 
+* [序列问题](ju-ti-cao-zuo/xu-lie-wen-ti/README.md)
+    * [逆序对](ju-ti-cao-zuo/xu-lie-wen-ti/ni-xu-dui.md)

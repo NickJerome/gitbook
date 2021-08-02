@@ -41,4 +41,6 @@
 ## 具体操作
 
 * [序列问题](ju-ti-cao-zuo/xu-lie-wen-ti/README.md)
-    * [逆序对](ju-ti-cao-zuo/xu-lie-wen-ti/ni-xu-dui.md)
+  * [逆序对](ju-ti-cao-zuo/xu-lie-wen-ti/ni-xu-dui.md)
+* [区间问题](ju-ti-cao-zuo/qu-jian-wen-ti/README.md)
+  * [区间GCD](ju-ti-cao-zuo/qu-jian-wen-ti/qu-jian-gcd.md)

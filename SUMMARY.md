@@ -37,6 +37,8 @@
   * [二分图](dai-ma-mo-ban/tu-lun/er-fen-tu.md)
   * [最小生成树](dai-ma-mo-ban/tu-lun/zui-xiao-sheng-cheng-shu.md)
   * [最短路](dai-ma-mo-ban/tu-lun/zui-duan-lu.md)
+* [动态规划](dai-ma-mo-ban/dong-tai-gui-hua/README.md)
+  * [数字三角形模型](dai-ma-mo-ban/dong-tai-gui-hua/shu-zi-san-jiao-xin-mo-xin.md)
 
 ## 具体操作
 

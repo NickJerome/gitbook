@@ -4,6 +4,8 @@
 
 ## 代码模板
 
++ [总模板](dai-ma-mo-ban/template.md)
+
 * [数据结构](dai-ma-mo-ban/shu-ju-jie-gou/README.md)
   * [树状数组](dai-ma-mo-ban/shu-ju-jie-gou/shu-zhuang-shu-zu.md)
   * [哈希表](dai-ma-mo-ban/shu-ju-jie-gou/ha-xi-biao.md)
